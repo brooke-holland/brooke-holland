@@ -38,9 +38,11 @@ What drives me is curiosity — the desire to uncover patterns, improve systems,
 ## 🚀 Featured Projects
 
 - **Telecom Churn Forcast**  
-  Classification pipeline comparing **Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM**, with **hyperparameter tuning**; optimized **F1** and **AUC-ROC**.  
+  Classification pipeline comparing **Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM**, with **hyperparameter tuning**; optimized **F1** and **AUC-ROC**.
+  
   🔗 Repo: README : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/README.md
-   🔗 PROJECT : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/Telecom_churn.ipynb
+  
+  🔗 PROJECT : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/Telecom_churn.ipynb
 
 ---
 
