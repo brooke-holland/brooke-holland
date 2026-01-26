@@ -39,7 +39,7 @@ What drives me is curiosity — the desire to uncover patterns, improve systems,
 
 - **Telecom Churn Forcast**  
   Classification pipeline comparing **Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM**, with **hyperparameter tuning**; optimized **F1** and **AUC-ROC**.  
-  🔗 Repo: https://github.com/brooke-holland/Telecom_Churn_Forcast
+  🔗 Repo: https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/Telecom_churn.ipynb
 
 ---
 
