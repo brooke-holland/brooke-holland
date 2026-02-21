@@ -37,12 +37,26 @@ What drives me is curiosity — the desire to uncover patterns, improve systems,
 
 ## 🚀 Featured Projects
 
-- **Telecom Churn Forcast**  
+- ### **Telecom Churn Forcast**  
   Classification pipeline comparing **Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM**, with **hyperparameter tuning**; optimized **F1** and **AUC-ROC**.
   
   🔗 Repo: README : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/README.md
   
   🔗 PROJECT : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/Telecom_churn.ipynb
+
+  -
+  
+
+- ### **Zuber Taxi Rides**
+  
+   Taxi Data will have data on Taxi Company names. Gathering the trip number amount of rides for each company during the dates of, November 15-16 2017. The Data will have the dropoff locations in the Chicago neighborhoods, the average number of rides and weather conditions during these trips.
+  **Testing Hypothesis using scipy, SQL**
+
+  🔗 Repo: README : https://github.com/brooke-holland/SQL.Zuber_Taxi.Rides
+  
+  🔗 PROJECT : https://github.com/brooke-holland/SQL.Zuber_Taxi.Rides/blob/main/SQL_Zuber.Taxi.Project.ipynb
+
+
 
 ---
 
