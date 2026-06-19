@@ -36,8 +36,13 @@ What drives me is curiosity — the desire to uncover patterns, improve systems,
 ### **Supply Chain Performance Dashboard**
   This project analyzes supply chain operations data to understand supplier performance, shipping efficiency, product sales, and inventory health. The goal is to simulate real-world Product Operations analysis similar to SaaS companies in the supply chain space.
 
+  🔗 Supply Chain Performance Dashboard 🔗Link ![Visible Label](folder/filename.png)
+
 ### **Global Sales Dashboard**
   This interactive dashboard analyzes global sales performance, profit trends, and regional geographic insights to support data-driven decision making.
+
+  🔗 Global Sales Dashboard 🔗 👉[View Interactive Dashboard](https://public.tableau.com/views/Global_Sales_Dashboard_17771244652390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
   
 
 ## 🤖 Machine Learning Models I Use
