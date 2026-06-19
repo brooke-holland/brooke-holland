@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brooke
 
-I specialize in transforming complex processes into clear, efficient solutions. Currently, I drive operational excellence as a Digital Press Operator at RR Donnelley, where precision and quality directly impact client success. Alongside this, I’m building a strong foundation in data science, equipping myself with the technical skills to solve problems through data.
+I specialize in transforming complex processes into clear, efficient solutions. With 13 years of operational experience and a Data Science certification from TripleTen, I combine process expertise with analytics to improve performance, uncover insights, and support data-driven decision making.
 
 What drives me is curiosity — the desire to uncover patterns, improve systems, and bridge the gap between traditional operations and data-driven decision making. I’m eager to connect with professionals in analytics and technology, contribute to data-focused teams, and continue growing into a data science role where I can deliver measurable impact.
 
@@ -28,6 +28,17 @@ What drives me is curiosity — the desire to uncover patterns, improve systems,
 
 
 ---
+
+## 📊 Tableau Portfolio
+
+*  🔗 Link to Tableau Public/  ![Tableau Public](https://public.tableau.com/app/profile/brooke.holland7743/vizzes)
+  
+### **Supply Chain Performance Dashboard**
+  This project analyzes supply chain operations data to understand supplier performance, shipping efficiency, product sales, and inventory health. The goal is to simulate real-world Product Operations analysis similar to SaaS companies in the supply chain space.
+
+### **Global Sales Dashboard**
+  This interactive dashboard analyzes global sales performance, profit trends, and regional geographic insights to support data-driven decision making.
+  
 
 ## 🤖 Machine Learning Models I Use
 
