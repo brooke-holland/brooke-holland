@@ -25,6 +25,14 @@ Programming languages and scripting tools.
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+
+### 🔧 Build Toolchains
+Build systems, compilers, and developer tooling.
+
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-B59A30?style=for-the-badge&logo=dashboarddevelopment&logoColor=white)
+![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-8957E5?style=for-the-badge&logo=kpimonitoring&logoColor=white)
+![Process Improvement](https://img.shields.io/badge/process_improvement-8E75B2?style=for-the-badge&logo=processimprovement&logoColor=white)
+
 ### 🤖 Artificial Intelligence and Bots
 AI assistants, chatbots, and machine learning platforms.
 
