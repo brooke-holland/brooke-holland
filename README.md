@@ -33,13 +33,17 @@ What drives me is curiosity — the desire to uncover patterns, improve systems,
 
 *  🔗 Link to Tableau Public/  ![Tableau Public](https://public.tableau.com/app/profile/brooke.holland7743/vizzes)
   
-### **Supply Chain Performance Dashboard**
+- ### **Supply Chain Performance Dashboard**
   This project analyzes supply chain operations data to understand supplier performance, shipping efficiency, product sales, and inventory health. The goal is to simulate real-world Product Operations analysis similar to SaaS companies in the supply chain space.
+  
+  🔗 Repo: README : https://github.com/brooke-holland/supply-chain-product-operations-dashboard
 
   🔗 Supply Chain Performance Dashboard 🔗Link ![Visible Label](folder/filename.png)
 
-### **Global Sales Dashboard**
+- ### **Global Sales Dashboard**
   This interactive dashboard analyzes global sales performance, profit trends, and regional geographic insights to support data-driven decision making.
+
+   🔗 Repo: README : https://github.com/brooke-holland/Global-Sales-Dashboard
 
   🔗 Global Sales Dashboard 🔗 👉[View Interactive Dashboard](https://public.tableau.com/views/Global_Sales_Dashboard_17771244652390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
