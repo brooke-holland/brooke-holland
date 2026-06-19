@@ -17,6 +17,13 @@ Programming languages and scripting tools.
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+### 📊 Visualizations
+
+![Tableau](https://img.shields.io/badge/Tableau-FF6600?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBi](https://img.shields.io/badge/PowerBi-2E86AB?style=for-the-badge&logo=powerbi&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4B0082?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🤖 Artificial Intelligence and Bots
 AI assistants, chatbots, and machine learning platforms.
@@ -109,13 +116,6 @@ Machine learning and AI libraries.
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3B8C2A?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=apacheopenoffice&logoColor=white)
-
-<!-- Visualization -->
-![Tableau](https://img.shields.io/badge/Tableau-FF6600?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBi](https://img.shields.io/badge/PowerBi-2E86AB?style=for-the-badge&logo=powerbi&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-4B0082?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 ### 💬 Social
