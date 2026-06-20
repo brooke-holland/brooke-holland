@@ -28,7 +28,7 @@ I’m actively interested in Product Operations, Operations Analyst, Business An
 ---
 
 
-🛠 Core Technologies
+## 🛠 Core Technologies
 
 ### Analytics & Visualization: ![Tableau](https://img.shields.io/badge/Tableau-FF6600?style=for-the-badge&logo=tableau&logoColor=white)  ![PowerBi](https://img.shields.io/badge/PowerBi-2E86AB?style=for-the-badge&logo=powerbi&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
 
