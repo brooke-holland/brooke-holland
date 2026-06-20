@@ -28,6 +28,20 @@ I’m actively interested in Product Operations, Operations Analyst, Business An
 ---
 
 
+🛠 Core Technologies
+
+### Analytics & Visualization: ![Tableau](https://img.shields.io/badge/Tableau-FF6600?style=for-the-badge&logo=tableau&logoColor=white)  ![PowerBi](https://img.shields.io/badge/PowerBi-2E86AB?style=for-the-badge&logo=powerbi&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
+
+### Programming & Data: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FF6600?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+Machine Learning: Scikit-Learn, XGBoost, LightGBM, NLP
+
+Tools: Jupyter Notebook, VS Code, Git, GitHub
+
+
+---
+
+
 # Badges
 ## 🛠️ Tech Stack
 
