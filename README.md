@@ -2,9 +2,31 @@
 
 I specialize in transforming complex processes into clear, efficient solutions. With 13 years of operational experience and a Data Science certification from TripleTen, I combine process expertise with analytics to improve performance, uncover insights, and support data-driven decision making.
 
-What drives me is curiosity — the desire to uncover patterns, improve systems, and bridge the gap between traditional operations and data-driven decision making. I’m eager to connect with professionals in analytics and technology, contribute to data-focused teams, and continue growing into a data science role where I can deliver measurable impact.
+Currently, I work as a Print Production Account Specialist II at RR Donnelley, serving as the bridge between customers and production teams to ensure projects move efficiently from order intake through final delivery. My responsibilities include workflow coordination, production scheduling, quality assurance, customer communication, billing preparation, and process optimization. This experience has strengthened my ability to manage complex operational processes, collaborate across teams, track performance metrics, and deliver solutions that improve efficiency and customer outcomes.
+
+What drives me is curiosity — the desire to uncover patterns, improve systems, and bridge the gap between traditional operations and data-driven decision making. Through hands-on projects in Tableau, SQL, Python, and machine learning, I enjoy turning data into actionable insights that support business goals and operational excellence.
+
+I’m actively interested in Product Operations, Operations Analyst, Business Analyst, and Data Analyst opportunities where I can combine my operational background with analytics to help teams make smarter, data-driven decisions.
 
 ---
+
+
+## 📊 Product Operations & Analytics Focus
+
+- Workflow Coordination
+- Process Improvement
+- Operational Analytics
+- KPI Monitoring & Reporting
+- Dashboard Development
+- Data Visualization
+- Stakeholder Communication
+- Quality Assurance
+- Cross-Functional Collaboration
+- Data-Driven Decision Making
+
+
+---
+
 
 # Badges
 ## 🛠️ Tech Stack
