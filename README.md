@@ -41,8 +41,62 @@ Tools: Jupyter Notebook, VS Code, Git, GitHub
 
 ---
 
+## 📊 Tableau Portfolio
 
-# Badges
+*  🔗 Link to Tableau Public/  ![Tableau Public](https://public.tableau.com/app/profile/brooke.holland7743/vizzes)
+  
+- ### **Supply Chain Performance Dashboard**
+  This project analyzes supply chain operations data to understand supplier performance, shipping efficiency, product sales, and inventory health. This project analyzes supplier performance, shipping efficiency, product sales, and inventory health to identify operational improvement opportunities and support data-driven decision making.
+  
+  🔗 Repo: README : https://github.com/brooke-holland/supply-chain-product-operations-dashboard
+
+  🔗 Supply Chain Performance Dashboard 🔗Link ![Visible Label](folder/filename.png)
+
+- ### **Global Sales Dashboard**
+   This interactive Tableau dashboard explores sales performance, profitability trends, and regional market performance through interactive geographic visualizations and KPI monitoring.
+
+   🔗 Repo: README : https://github.com/brooke-holland/Global-Sales-Dashboard
+
+  🔗 Global Sales Dashboard 🔗 👉[View Interactive Dashboard](https://public.tableau.com/views/Global_Sales_Dashboard_17771244652390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+  
+
+## 🤖 Machine Learning & Predictive Analytics
+
+**Logistic Regression • Decision Tree • Random Forest • XGBoost • LightGBM • NLP (text preprocessing, vectorization, classification)**
+
+---
+
+## 🚀 Featured Projects
+
+- ### **Telecom Churn Forcast**  
+  Classification pipeline comparing **Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM**, with **hyperparameter tuning**; optimized **F1** and **AUC-ROC**.
+  
+  🔗 Repo: README : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/README.md
+  
+  🔗 PROJECT : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/Telecom_churn.ipynb
+
+  -
+  
+
+- ### **Zuber Taxi Rides**
+  
+  Analyzed Chicago taxi ride data using SQL and statistical hypothesis testing to identify patterns in ride demand, weather impacts, and company performance.
+
+  **Testing Hypothesis using scipy, SQL**
+
+  🔗 Repo: README : https://github.com/brooke-holland/SQL.Zuber_Taxi.Rides
+  
+  🔗 PROJECT : https://github.com/brooke-holland/SQL.Zuber_Taxi.Rides/blob/main/SQL_Zuber.Taxi.Project.ipynb
+
+
+
+---
+
+# 📊 GitHub Stats
+
+## Badges
+
 ## 🛠️ Tech Stack
 
 ## 📊 Analytics Focus
@@ -140,64 +194,6 @@ Machine learning and AI libraries.
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3B8C2A?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=apacheopenoffice&logoColor=white)
-
-
-
----
-
-## 📊 Tableau Portfolio
-
-*  🔗 Link to Tableau Public/  ![Tableau Public](https://public.tableau.com/app/profile/brooke.holland7743/vizzes)
-  
-- ### **Supply Chain Performance Dashboard**
-  This project analyzes supply chain operations data to understand supplier performance, shipping efficiency, product sales, and inventory health. This project analyzes supplier performance, shipping efficiency, product sales, and inventory health to identify operational improvement opportunities and support data-driven decision making.
-  
-  🔗 Repo: README : https://github.com/brooke-holland/supply-chain-product-operations-dashboard
-
-  🔗 Supply Chain Performance Dashboard 🔗Link ![Visible Label](folder/filename.png)
-
-- ### **Global Sales Dashboard**
-   This interactive Tableau dashboard explores sales performance, profitability trends, and regional market performance through interactive geographic visualizations and KPI monitoring.
-
-   🔗 Repo: README : https://github.com/brooke-holland/Global-Sales-Dashboard
-
-  🔗 Global Sales Dashboard 🔗 👉[View Interactive Dashboard](https://public.tableau.com/views/Global_Sales_Dashboard_17771244652390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-  
-
-## 🤖 Machine Learning & Predictive Analytics
-
-**Logistic Regression • Decision Tree • Random Forest • XGBoost • LightGBM • NLP (text preprocessing, vectorization, classification)**
-
----
-
-## 🚀 Featured Projects
-
-- ### **Telecom Churn Forcast**  
-  Classification pipeline comparing **Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM**, with **hyperparameter tuning**; optimized **F1** and **AUC-ROC**.
-  
-  🔗 Repo: README : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/README.md
-  
-  🔗 PROJECT : https://github.com/brooke-holland/Telecom_Churn_Forcast/blob/main/Telecom_churn.ipynb
-
-  -
-  
-
-- ### **Zuber Taxi Rides**
-  
-  Analyzed Chicago taxi ride data using SQL and statistical hypothesis testing to identify patterns in ride demand, weather impacts, and company performance.
-
-  **Testing Hypothesis using scipy, SQL**
-
-  🔗 Repo: README : https://github.com/brooke-holland/SQL.Zuber_Taxi.Rides
-  
-  🔗 PROJECT : https://github.com/brooke-holland/SQL.Zuber_Taxi.Rides/blob/main/SQL_Zuber.Taxi.Project.ipynb
-
-
-
----
-
-## 📊 GitHub Stats
 
 ---
 
