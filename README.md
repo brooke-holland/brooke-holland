@@ -149,7 +149,7 @@ Machine learning and AI libraries.
 
 - ### **Zuber Taxi Rides**
   
-Analyzed Chicago taxi ride data using SQL and statistical hypothesis testing to identify patterns in ride demand, weather impacts, and company performance.
+  Analyzed Chicago taxi ride data using SQL and statistical hypothesis testing to identify patterns in ride demand, weather impacts, and company performance.
 
   **Testing Hypothesis using scipy, SQL**
 
